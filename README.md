@@ -15,7 +15,7 @@ Table of contents
 
 🕶 [Hired](https://hired.com/) - after registration you’ll get the job requests from companies. Choose the one who matches you requirements and follow up with the interview requests. Hired also has a wide career knowledge base (US, Canada, France, United Kingdom)
 
-🕶 [Skyworker](https://skyworker.com.ua/en_GB/) - anonymously reveal the job that will open in 2, 3, 4 month. Put you skills and desires into your profile and matching algorithms will show you options that are relevant from 60% to 100%. All information about company and projects in one place. You can communicate with companies and participate in online mentor sessions with your potential colleagues/leads. [Request for a demo](https://skyworkertest.typeform.com/to/hyUyEn)
+🕶 [Skyworker](https://skyworker.com.ua/en_GB/) - anonymously reveal jobs that will open in 2, 3, 4 month. Put you skills and desires into your profile and matching algorithms will show you options that are relevant from 60% to 100%. All information about company and projects in one place. You can communicate with companies and participate in online mentor sessions with your potential colleagues/leads. [Request for a demo](https://skyworkertest.typeform.com/to/hyUyEn)
 
 🕶 [Siftly](https://siftly.com/how) - platform that match your with certain vacancies from recruiter agencies. You’ll get vacancies on you email after registration (US).
 
