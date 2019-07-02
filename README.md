@@ -49,7 +49,7 @@ This list of platforms will help you with different issues including your profes
 
 🕶 [Skyworker](https://skyworker.com.ua/)  - online mentoring session with IT professionals. The platform is free and you can participate in mentor session only from companies that fit you job requirements. [Request for a demo](https://skyworkertest.typeform.com/to/hyUyEn)
 
-💸 [Pathrise] (https://www.pathrise.com/) - it’s a career accelerator for young professional. Here you can pass through deep career mentoring service with professionals from global companies. Here you’ll learn how to develop your professional brand, how to represent yourself before IT companies and develop additional career skills. The cost of service is 9% of your annual payment in case of employment.
+💸 [Pathrise](https://www.pathrise.com/) - it’s a career accelerator for young professional. Here you can pass through deep career mentoring service with professionals from global companies. Here you’ll learn how to develop your professional brand, how to represent yourself before IT companies and develop additional career skills. The cost of service is 9% of your annual payment in case of employment.
 
 🕶 [TripleByte](https://triplebyte.com/) -  anonymous, background blind platform that can help you to evaluate your professional level through quiz - test for your basic programming, algorithms and web programming skills. After that, platform send your results to relevant companies (only for US citizens, or for specialists with permission to work in the US).
 
